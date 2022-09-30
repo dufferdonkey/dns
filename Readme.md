@@ -89,3 +89,18 @@
 | ------------- | ------------- |
 | IPv4 | `45.79.120.233` |
 | TLS | `dot.in.ahadns.net` |
+
+
+## ControL D(No Logging)
+
+#### Ads & Tracking
+| Protocol  | Address |
+| ------------- | ------------- |
+| IPv4 | `76.76.2.2` and `76.76.10.2` |
+| TLS | `p2.freedns.controld.com` |
+
+#### Ads, Tracking & Social
+| Protocol  | Address |
+| ------------- | ------------- |
+| IPv4 | `76.76.2.3` and `76.76.10.3` |
+| TLS | `p3.freedns.controld.com` |
