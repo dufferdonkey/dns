@@ -1,3 +1,15 @@
+### Configuring DNS manually on Windows
+   1. Open Control Panel
+   2. Select Network and Internet   
+   3. Network and Sharing Center.(Left panel)
+   4. Change Adapter Settings.(Left panel)
+   5. Select your network connected through.
+   6. Right-click the connection icon and select Properties.
+   7. Select Internet Protocol Version 4 (TCP/IPv4).
+   8. Click Properties.
+   9. Select Use the following DNS server addresses.
+   10. Enter the addresses of one of the servers below as Preferred DNS server and Alternate DNS server.
+   
 ### Configuring DNS manually on Router
 1. Possible addresses for your router to access router
 
