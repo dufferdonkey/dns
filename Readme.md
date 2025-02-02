@@ -191,7 +191,7 @@
 | Protocol  | Address |
 | ------------- | ------------- |
 | IPv4  | `9.9.9.11` and `149.112.112.11` |
-| TLS | `9.9.9.11 and 149.112.112.11` |
+| TLS | `dns11.quad9.net` |
 
 
 ## Verisign Public DNS
