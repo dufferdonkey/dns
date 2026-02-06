@@ -49,6 +49,7 @@
 | ------------- | ------------- |
 | IPv4  | `94.140.14.14` and `94.140.15.15`  |
 | TLS  | `dns.adguard-dns.com`  |
+| DoH  | `https://dns.adguard-dns.com/dns-query`  |
 
 #### Non-filtering
 
@@ -65,17 +66,6 @@
 | TLS  | `family.adguard-dns.com`|
 
 
-## AhaDNS(zero-logging)
-
-### Blitz
-
-#### India
-
-| Protocol  | Address |
-| ------------- | ------------- |
-| IPv4 | `45.79.120.233` |
-| TLS | `dot.in.ahadns.net` |
-
 
 ## Cisco OpenDNS
 
@@ -84,6 +74,7 @@
 | Protocol  | Address |
 | ------------- | ------------- |
 | IPv4  | `208.67.222.222` and `208.67.220.220`  |
+| DoH  | `https://doh.opendns.com/dns-query`  |
 
 #### FamilyShield
 
@@ -124,6 +115,7 @@
 | ------------- | ------------- |
 | IPv4  | `1.1.1.1` and `1.0.0.1` |
 | TLS | `1dot1dot1dot1.cloudflare-dns.com` |
+| DoH | `https://cloudflare-dns.com/dns-query` |
 
 #### Malware Blocking
 
@@ -169,6 +161,7 @@
 | ------------- | ------------- |
 | IPv4  | `8.8.8.8` and `8.8.4.4` |
 | TLS | `dns.google` |
+| DoH | `https://cloudflare-dns.com/dns-query` |
 
 
 ## NextDNS
@@ -185,6 +178,7 @@
 | ------------- | ------------- |
 | IPv4  | `9.9.9.9` and `149.112.112.112` |
 | TLS | `dns.quad9.net` |
+| DoH | `https://dns.quad9.net/dns-query` |
 
 #### w/ECS
 
